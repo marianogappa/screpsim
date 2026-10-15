@@ -1,0 +1,213 @@
+# linkcheck replay set: the openbw-go tools/apivalidate set, relative to $OPENBW_REPLAYS
+# SC:R 1v1 replays, round robin over maps
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-02956D16-3972-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-3050_KzerG/MM-1145840C-C525-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-0968BBD0-389F-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-0EF24466-0D7C-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-1E15D356-3930-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-3050_KzerG/MM-E8DD6C38-B169-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-Esccccccc/MM-10CF24CE-261E-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-0487EA2E-059F-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-03D21720-3BD8-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-05EE4094-3956-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-062A7550-332A-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-01BB44F2-392B-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-47C69E12-0D73-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-05E18BE8-3BD5-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-19D4BD1C-3970-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-3050_KzerG/MM-3E8F8156-C5F2-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-0EEC893C-33D7-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-25D84E4C-0597-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-1E25D53C-3EF1-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-Esccccccc/MM-1270B674-25DF-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-08426F54-0739-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-28C8B700-3953-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-6F7F0B20-3A13-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-1645DFEA-3714-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-1BA865CA-3BD8-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-4FA25FAA-0110-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-1144BCC2-3ED1-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-2A6A4F7A-3989-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-3050_KzerG/MM-F78D2F10-BDEA-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-3515411C-38A5-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-6E1CA33E-0078-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-580CD11E-3E34-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-Esccccccc/MM-816E480E-25CE-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-12D0AB62-010C-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-3839FC34-3972-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-81359362-396D-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-1A0A8E78-38AE-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-42039C9A-396B-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-6E982D24-059B-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-248E2728-3E3B-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-2C42F3B2-3E37-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-mentalgap/MM-63627DF8-A9EB-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-3BCF289E-394D-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-7BE7C3E6-05B3-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-59DC13A6-396B-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-Esccccccc/MM-AD3C6A4C-2619-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-309FD3BC-059D-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-43305126-3E34-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-9713C75A-397A-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-3486228A-3E2B-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-4A132556-3E37-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-81D6DC0A-0442-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-2759FF50-3A11-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-33E4707E-3C92-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-mentalgap/MM-6CE4E808-A8E6-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-4B7A5BEA-3319-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-7D44405E-0D86-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-5EBC7D92-38C2-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-Esccccccc/MM-B98BF6FC-25D6-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-58DF4910-0959-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-6C098972-396C-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-A9E0EC0C-3C8E-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-3E16B8F6-33DF-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-6FE57F16-3E34-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-A09C36EE-02D0-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-27E353C6-3BD9-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-3DDA6CE8-398E-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-mentalgap/MM-9AA1E092-A9FA-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-52C29E90-3A2A-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-98B05786-072A-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-6500F2A4-38C3-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-GreenPigJumjung-ShuttleFish/MM-6D95C248-3BFA-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-81FD9D40-08D9-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-6CA1CD1C-3EFE-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-B25928F0-3968-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-4ACFDC8C-37B6-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-7B72839C-3AFB-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-A20D6A70-02CB-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-6D92C5E2-3971-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-3EEC3E46-3EF1-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-mentalgap/MM-9FBA6DA2-A9B3-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-8B42F84A-3E2C-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-BA76845C-0442-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-7056EA56-3A0C-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-GreenPigJumjung-ShuttleFish/MM-FBB904DE-3BF7-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-8C75E3C4-0729-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-77AF9A96-3E3A-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-BB96EB92-3A34-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-4FBB1CBA-370D-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-7CFC73D8-3EF9-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-B9987410-02CA-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-7154C70A-3C98-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-443078E6-3E41-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-mentalgap/MM-A4CDFD9A-A945-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-90A75DF6-3ED8-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-EE3F8E9A-066E-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-7080E756-3E36-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-HM_sSak/MM-50D73708-36CE-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-8EC4E15C-0599-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-7E4B1FA8-3929-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-C0F19DA8-3967-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-66039C4E-3A2E-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-9191D194-3968-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-B9B8A782-059D-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-84EF15E2-3935-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-5885A200-3E49-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-mentalgap/MM-AF61F19E-AA03-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-9256BBDE-37B6-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-F87866B0-05B1-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-7F3A2728-397A-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-HM_sSak/MM-768514AA-32E3-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-B31234BA-0D73-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-855AD030-3C9F-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-C264957E-3A2E-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-684ACED4-36FD-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-9CE02278-3966-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-BBC7B656-059A-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-8F6B4B0E-3961-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-62D34D7A-3E3A-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-mentalgap/MM-C33C3EFC-A947-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-DE378B40-396F-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-3050_KzerG/MM-040AE2B0-9EA0-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-9A88C4E6-3E37-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-HM_sSak/MM-9CCE045C-3610-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-B82FBFE0-0598-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-AD3B1BD2-3961-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-CA192304-3937-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-7A8EB110-3D5A-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-A0B4E072-3A34-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-D056B596-0599-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-A3B0E1D0-3C97-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-67DF17C0-3E37-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-mentalgap/MM-CDA7E07E-A9B7-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-E7C38B30-3971-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-3050_KzerG/MM-0EDF7F1A-C5F2-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-9B3D59D6-3E43-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-3050_KzerG/MM-BD179E92-1150-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-CBE80F8C-059E-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-02092500-3953-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-CAA8DE22-3C8E-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-9302B926-3963-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-A4515F80-3E30-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-E6B8C9DC-059E-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-B5D36C6A-3EF0-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-6E5F3C9A-3E2F-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-mentalgap/MM-D0C43458-A9FB-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-F49129E6-3EDD-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-3050_KzerG/MM-6020ED28-C138-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-A8864936-3E34-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-3050_KzerG/MM-EE88A8A4-3EFA-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-mentalgap/MM-4C18084C-A951-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-18846628-3962-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-CCB8BADC-3C8B-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-9CA72654-3A28-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-B20965B4-3BC9-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-NEW-IllIllIlllIIIII/MM-EA3DD000-0596-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-BA97FF48-395C-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-73E00888-3999-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-mentalgap/MM-F4A174AA-A9AE-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-Esccccccc/MM-3E1EC00C-25D2-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-3050_KzerG/MM-83179234-BDF3-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-C39F6144-3966-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-4023b/MM-37088890-3C1E-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-mentalgap/MM-5071BE2E-A942-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-19EE4824-3BAD-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-CD853F14-3EDC-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-F1SSasad11s32dd/MM-9D27B2FC-34B4-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-B44309D2-38BF-11F1-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/30-MORE-3050_KzerG/MM-087B4C16-C134-11F0-A3DD-FA167B5461B6.rep
+cwalggdl/replays-cwal-dl/11-MORE-707_sniper/MM-C1189322-38C2-11F1-A3DD-FA167B5461B6.rep
+# team and older replays, evenly spread
+scmapanalyzer/replays/2486 LimperT qeywro78Z.rep
+scmapanalyzer/replays/30-lIlIIIIIIllllll/MM-258E670C-FB9A-11F0-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-lIlIIIIIIllllll/MM-42A3AE48-14D5-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-lIlIIIIIIllllll/MM-61175054-2881-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-lIlIIIIIIllllll/MM-86DF9E1A-17F9-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-lIlIIIIIIllllll/MM-A206E8D8-2235-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-lIlIIIIIIllllll/MM-C56163DA-2857-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-lIlIIIIIIllllll/MM-E5055F06-17F5-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-llIlIlIIIIIlII1/MM-06748AFA-281C-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-llIlIlIIIIIlII1/MM-1B5EA8D8-26E6-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-llIlIlIIIIIlII1/MM-3E1ADB12-2286-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-llIlIlIIIIIlII1/MM-565ED310-29FF-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-llIlIlIIIIIlII1/MM-858F3ACA-25C8-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-llIlIlIIIIIlII1/MM-BE26B580-2900-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-llIlIlIIIIIlII1/MM-D8056AEE-16F6-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/30-llIlIlIIIIIlII1/MM-EBF1EF36-3272-11F1-A3DD-FA167B5461B6.rep
+scmapanalyzer/replays/Autoreplay/0450 MP kP vZ TT mZ iP eP Z.rep
+scmapanalyzer/replays/Autoreplay/0521 eP HT mP EZ AP rP pZ P.rep
+scmapanalyzer/replays/Autoreplay/0631 UP eZ mT RZ eP AZ mZ P.rep
+scmapanalyzer/replays/Autoreplay/0708 TT RP eP IT aP oZ eZ P.rep
+scmapanalyzer/replays/Autoreplay/0919 eP RT GP iZ SP yP hT P.rep
+scmapanalyzer/replays/Autoreplay/1041 BZ mP 7Z eP eT sP UP P.rep
+scmapanalyzer/replays/Autoreplay/1122 P Z P T T P Z T.rep
+scmapanalyzer/replays/Autoreplay/1160 vZ TP rP DT eP DT aP P.rep
+scmapanalyzer/replays/TesteR_RepPack/0044 PP CT BZ TP TP fT FT P.rep
+scmapanalyzer/replays/TesteR_RepPack/0092 DZ TT SZ mZ TP IT iZ P.rep
+scmapanalyzer/replays/TesteR_RepPack/0140 AT ET TZ dP lP yP LZ P.rep
+scmapanalyzer/replays/TesteR_RepPack/0163 AP TP mZ wP mP iT WZ Z.rep
+scmapanalyzer/replays/TesteR_RepPack/0210 BP mP TP sP BZ JT TP T.rep
+scmapanalyzer/replays/TesteR_RepPack/0256 TP tP TP UZ iZ CT PT Z.rep
+scmapanalyzer/replays/TesteR_RepPack/0288 tT mT lP iZ aP HP TP T.rep
+scmapanalyzer/replays/TesteR_RepPack/0311 FT TP OT mP BP iP hT P.rep
+scmapanalyzer/replays/TesteR_RepPack/0348 TP AZ TP UP cP sZ cT P.rep
+scmapanalyzer/replays/TesteR_RepPack/0365 sZ RP TP JT BZ iT DT P.rep
+scmapanalyzer/replays/TesteR_RepPack/0386 jT yZ oZ 5P HT WP 7P P.rep
+scmapanalyzer/replays/TesteR_RepPack/0433 mT wP fZ TT PZ HP TP P.rep
+scmapanalyzer/replays/TesteR_RepPack/0454 TT BP DT iZ HP GZ iP Z.rep
+scmapanalyzer/replays/TesteR_RepPack/0495 oT TZ 0P mZ BP WP lT P.rep
+scmapanalyzer/replays/TesteR_RepPack/0519 AT CT cP tT bZ TT TP P.rep
+scmapanalyzer/replays/TesteR_RepPack/0564 fT bZ MP iP gP rP TZ T.rep
