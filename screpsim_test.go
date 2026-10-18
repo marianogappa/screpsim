@@ -151,6 +151,24 @@ func TestUnitTagsMatchSelections(t *testing.T) {
 	}
 }
 
+func TestUnitTagLayout(t *testing.T) {
+	id := openbw.UnitID(1448 | 1<<11)
+	cases := []struct {
+		info openbw.EngineInfo
+		want repcmd.UnitTag
+	}{
+		{openbw.EngineInfo{SourceFormat: format121, UnitLimit: 3400}, 3148 | 1<<13},
+		{openbw.EngineInfo{SourceFormat: format121, UnitLimit: 1700}, 0x0DA8},
+		{openbw.EngineInfo{SourceFormat: "legacy", UnitLimit: 1700}, 0x0DA8},
+	}
+	for _, c := range cases {
+		g := &Game{scrTags: usesSCRTagLayout(c.info)}
+		if got := g.UnitTag(id); got != c.want {
+			t.Errorf("%s with %d units: tag %#x, want %#x", c.info.SourceFormat, c.info.UnitLimit, got, c.want)
+		}
+	}
+}
+
 func TestParseIsQuiet(t *testing.T) {
 	replay := readReplay(t, testReplays[0])
 	var out bytes.Buffer

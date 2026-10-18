@@ -49,7 +49,7 @@ func Open(replay []byte, opts Options) (*Game, error) {
 	if err != nil {
 		return nil, fmt.Errorf("screpsim: %w", err)
 	}
-	g := &Game{replay: parsed, engine: engine, scrTags: engine.Info().SourceFormat == format121}
+	g := &Game{replay: parsed, engine: engine, scrTags: usesSCRTagLayout(engine.Info())}
 	g.links, g.actions = linkCommands(parsed.Commands, engine.SourceCommands())
 	return g, nil
 }
